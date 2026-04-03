@@ -1,5 +1,5 @@
 # 🏗️ Lead Data Engineer — System Design Interview Guide
-### *Answering as a Senior AWS Solutions Architect at a FAANG/MAANG Company*
+
 
 ---
 
